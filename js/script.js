@@ -1,5 +1,5 @@
 const apikey = "99e8cd061169796a88f368cfa2e6c297"; //Api key
-const apiUrl = "http://api.openweathermap.org/data/2.5/weather";  //API link
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather";  //API link
  
 //Function to fetch weather data by location
 function getWeather() {
